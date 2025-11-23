@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Scene Analyzer",
+  "description": "An AI assistant that analyzes videos scene-by-scene, extracting details, characters, and voiceovers to generate AI video creation prompts.",
+  "requestFramePermissions": []
+}
